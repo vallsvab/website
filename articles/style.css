@@ -1,0 +1,60 @@
+.article {
+	margin-top: 2em;
+	background-color: rgba(0, 0, 0, 0.9);
+	height: 100%;
+}
+.article-img {
+	display: inline-block;
+	margin-left: 0em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.article-heading {
+	margin-top: 0.5em;
+	margin-left: 0.2em;
+	//display: inline-block;
+	color: white;
+}
+.article-text {
+	margin-top: 1em;
+	margin-left: 0.5em;
+	//display: inline-block;
+	color: white;
+}
+.article-btn {
+	margin-top: 0em;
+	margin-left: 0.5em;
+	margin-bottom: 0.5em;
+}
+.article-1 {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.9);
+	margin-top: 6em;
+}
+.article-2 {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.9);
+	margin-top: 6em;
+}
+.article-3 {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.9);
+	margin-top: 6em;
+}
+.pages {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.9);
+	margin-top: 6em;
+}
+.pages > p {
+    display: inline-block;
+	color: white;
+	margin-top: 1em;
+	margin-left: 0.5em;
+}
+.pages > a {
+    display: inline-block;
+	color: white;
+	margin-top: 1em;
+	margin-left: 0.5em;
+}
